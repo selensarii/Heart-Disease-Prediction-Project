@@ -2,10 +2,10 @@
 
 # PROJEYİ GELİŞTİRENLER
 
-`Muhammed Uğur Emre` 202103011020
-`Selen Sarı` 202103011066
-`Eren Çetin` 202103011084
-`Doruk Alp Bucak` 202203011038
+`Muhammed Uğur Emre` 
+`Selen Sarı` 
+`Eren Çetin` 
+`Doruk Alp Bucak` 
 
 Bu proje, bir veri kümesi kullanarak kalp hastalığı tahminini gerçekleştirmek için çeşitli makine öğrenimi algoritmalarını (KNN, MLP ve Naive Bayes) uygular.
 Veri kümesi hem kategorik hem de sayısal öznitelikler içerir ve bu özniteliklerin etkilerini analiz ederek algoritmaların başarımını kıyaslamayı amaçlar.
